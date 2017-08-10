@@ -36,32 +36,21 @@
 					</header>
 					<div class="posts">
 						<article>
-							<a href="#" class="image"><img src="images/Selection_004.png" alt="" /></a>
+							<a href="icmla2015learning.pdf" class="image"><img src="images/Selection_004.png" alt="" /></a>
 							<h3>Learning Effects of Environmental Context on Plan Execution</h3>
 							<p>Learning patterns, where environment affects outcome, enables the robot to plan more effectively, as well as to interact
 								with people better by more accurately predicting when its plans may take longer to execute or may be likely to fail.</p>
-							<ul
-							    class="actions">
-								<li><a href="#" class="button">More</a></li>
-								</ul>
 						</article>
 						<article>
-							<a href="#" class="image"><img src="images/wall_room.png" alt="" /></a>
+							<a href="ala2017.php" class="image"><img src="images/wall_room.png" alt="" /></a>
 							<h3>Combining Reinforcement Learning with Domain Knowledge</h3>
 							<p>We present a pilot study focused on creating flexible Hierarchical Task Networks which can leverage Reinforcement
 								Learning to repair and adapt incomplete plans in the simulated rich domain of Minecraft.</p>
-							<ul class="actions">
-								<li><a href="ala2017.php" class="button">More</a></li>
-							</ul>
 						</article>
 						<article>
-							<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
-							<h3>Person Detection for better Person Following</h3>
-							<p>A project under development which is trying to fuse multiple weak detections together to get better person detection.
-								Designed specially for person-following application.</p>
-							<ul class="actions">
-								<li><a href="#" class="button">More</a></li>
-							</ul>
+							<a href="#" class="image"><img src="images/gazebo_demo.png" alt="" /></a>
+							<h3>Using Gazebo to Study Decision Making under Driving Conditions</h3>
+							<p>A project under development trying to employ the use of Gazebo to understand and learn from the good and bad decisions that humans make while driving</p>
 						</article>
 						<!--article>
 											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
