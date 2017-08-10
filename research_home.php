@@ -32,7 +32,7 @@
 				<!-- Section -->
 				<section>
 					<header class="major">
-						<h2>Research</h2>
+						<h2>Research Portfolio</h2>
 					</header>
 					<div class="posts">
 						<article>
