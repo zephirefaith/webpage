@@ -26,7 +26,7 @@
 
 							<!-- Header -->
 								<header id="header">
-								    <a href="index.html" class="logo">
+								    <a href="index.php" class="logo">
 									<strong>Combining Reinforcement Learning with Domain Knowledge</strong>
 								    </a>
 								    <ul class="icons">
