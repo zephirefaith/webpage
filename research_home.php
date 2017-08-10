@@ -49,7 +49,7 @@
 						</article>
 						<article>
 							<a href="#" class="image"><img src="images/gazebo_demo.png" alt="" /></a>
-							<h3>Using Gazebo to Study Decision Making under Driving Conditions</h3>
+							<h3>Using Gazebo to Study Decision Making for Rare Situations</h3>
 							<p>A project under development trying to employ the use of Gazebo to understand and learn from the good and bad decisions that humans make while driving</p>
 						</article>
 						<!--article>
