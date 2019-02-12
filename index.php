@@ -57,9 +57,8 @@
 										<li><a href="#" class="button big">Learn More</a></li>
 									</ul> -->
 				</section>
-                <header class="main">
+                <section>
 					<h2>Research Interest</h2>
-				</header>
 				<p><span class="image right"><img src="images/fetch_halloween.jpg" alt="Lab robot as Harry Potter on Halloween" width="20%"/></span>
 					I am interested in bridging the gap between <b>knowledge-based algorithms</b> and <b>data-based learning</b> to endow robotic
 					agents with the ability to make sense of the world and repair knowledge gaps by using data on the fly. A part of my research
@@ -75,40 +74,27 @@
 						<li>To use a mixture of inverse reinforcement learning, optimization and guided reinforcement learning to make self-reliant agents</li>
 					</ul>
 				</p>
+                </section>        
 
-				<header>
-					<h2>Core Interests</h2>
-				</header>
+				<section>
+					<h2>Core Quetions</h2>
 				<div class="features">
 					<article>
 						<span class="icon fa-clock-o"></span>
 						<div class="content">
 							<h3>Long-term Autonomy</h3>
-							<p>By endowing agents with a sense of 'goal', we can expect agents to recover better from unexpected enviornmental changes</p>
-						</div>
-					</article>
-					<article>
-						<span class="icon fa-users"></span>
-						<div class="content">
-							<h3>Socially Smart Agents</h3>
-							<p>In order to tackle constantly changing world, an agent needs to know how to interact with people and use their knowledge for better plan recovery</p>
-						</div>
-					</article>
-					<article>
-						<span class="icon fa-cloud"></span>
-						<div class="content">
-							<h3>Cloud as Scalable Knowledge Database</h3>
-							<p>For transfer of knowledge between multiple platforms</p>
+							<p>By endowing agents with a sense of base 'expectations', I want to create architectures which can switch mode of operation of the agent to support long-term interactions</p>
 						</div>
 					</article>
 					<article>
 						<span class="icon fa-comments"></span>
 						<div class="content">
 							<h3>Explanation and Communication</h3>
-							<p>This goes hand in hand with social smarts, in order to interact the agent must also know how to articulate its state</p>
+							<p>We are talking about robots which live and work with human beings. In order to support humans or ask them for helps, an agent needs to understand how to communicate such that the team can get to a shared understanding of the context and the problem before making any decisions.</p>
 						</div>
 					</article>
 				</div>
+                </section>
 
 			</div>
 		</div>
